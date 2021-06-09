@@ -8,3 +8,13 @@ C:\Users\40013016\Desktop\Assessment_HandsOn\ProblemThree_CompleteSolution\obj\D
 C:\Users\40013016\Desktop\Assessment_HandsOn\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution_MainApp.csproj.CopyComplete
 C:\Users\40013016\Desktop\Assessment_HandsOn\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution.exe
 C:\Users\40013016\Desktop\Assessment_HandsOn\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution.pdb
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution.exe.config
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution.exe
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution.pdb
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution_BL.dll
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution_BL.pdb
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution_MainApp.csprojAssemblyReference.cache
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution_MainApp.csproj.CoreCompileInputs.cache
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution_MainApp.csproj.CopyComplete
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution.exe
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution.pdb

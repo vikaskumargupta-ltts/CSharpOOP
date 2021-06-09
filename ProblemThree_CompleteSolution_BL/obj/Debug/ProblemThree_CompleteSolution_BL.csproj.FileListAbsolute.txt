@@ -8,3 +8,9 @@ C:\Users\40013016\Desktop\Assessment_HandsOn\ProblemThree_CompleteSolution_BL\ob
 C:\Users\40013016\Desktop\Assessment_HandsOn\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.csproj.CoreCompileInputs.cache
 C:\Users\40013016\Desktop\Assessment_HandsOn\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.dll
 C:\Users\40013016\Desktop\Assessment_HandsOn\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.pdb
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution_BL\bin\Debug\ProblemThree_CompleteSolution_BL.dll
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution_BL\bin\Debug\ProblemThree_CompleteSolution_BL.pdb
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.csprojAssemblyReference.cache
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.csproj.CoreCompileInputs.cache
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.dll
+D:\LTTS\CSharpTraining\CSharpOOP\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.pdb
